@@ -1,0 +1,81 @@
+name,price,quantity,category
+Panadol (Paracetamol),50,89,Medicines
+Ibuprofen 400mg,70,80,Medicines
+Aspirin Tablets,60,90,Medicines
+Cough Syrup (Generic),120,50,Medicines
+Multivitamin Tablets,200,60,Health Supplements
+Vitamin C Tablets,180,70,Health Supplements
+Calcium Supplement,250,40,Health Supplements
+Omega-3 Fish Oil,400,30,Health Supplements
+Moisturizing Lotion,300,40,Cosmetics
+Red Lipstick,500,30,Cosmetics
+Liquid Foundation,800,25,Cosmetics
+Anti-Aging Eye Cream,1000,20,Cosmetics
+SPF 50 Sunscreen,700,30,Cosmetics
+Waterproof Mascara,600,25,Cosmetics
+Black Eyeliner,450,20,Cosmetics
+Body Lotion,350,40,Cosmetics
+Classic Perfume,1500,20,Perfumes
+Perfume Spray,1200,25,Perfumes
+Aftershave Lotion,800,15,Perfumes
+Herbal Shampoo,250,50,Toiletries
+Hair Conditioner,350,35,Toiletries
+Antibacterial Soap,80,70,Toiletries
+Whitening Toothpaste,150,60,Toiletries
+Antiseptic Mouthwash,300,35,Toiletries
+Roll-On Deodorant,300,40,Toiletries
+Disposable Razors,200,50,Toiletries
+Hair Styling Gel,250,30,Toiletries
+Foaming Face Wash,400,30,Toiletries
+Baby Diapers (Size 3),600,30,Baby Products
+Baby Massage Oil,400,25,Baby Products
+Baby Cream,300,35,Baby Products
+Baby Cereal,250,30,Baby Products
+Baby Feeding Bottles,500,20,Baby Products
+Silicone Pacifier,150,40,Baby Products
+Baby Teether,300,25,Baby Products
+Baby Wet Wipes,200,50,Baby Products
+Electric Blender,3500,15,Electronics
+Electric Kettle,2000,20,Electronics
+Table Fan,3000,15,Electronics
+2-Slice Toaster,2500,10,Electronics
+Hand Mixer,4000,10,Electronics
+Steam Iron,2500,15,Electronics
+LED Desk Lamp,1200,30,Household
+Wall Clock,800,25,Household
+Window Curtain,1500,20,Household
+Dinner Plate Set,1000,20,Household
+Ceramic Mug Set,500,40,Household
+Bath Towel,400,50,Household
+Door Mat,300,30,Household
+Stainless Steel Spoon Set,600,30,Household
+Plastic Bucket,400,25,Household
+Antacid Tablets,90,70,Medicines
+Adhesive Bandages,100,80,Medicines
+Antiseptic Cream,150,60,Medicines
+Cold Relief Tablets,100,50,Medicines
+Allergy Relief Spray,200,40,Medicines
+Blush Powder,700,20,Cosmetics
+Red Nail Polish,300,30,Cosmetics
+Vitamin C Serum,1200,15,Cosmetics
+Face Cleanser,450,25,Cosmetics
+Hydrating Toner,500,20,Cosmetics
+Hair Repair Mask,600,15,Toiletries
+Body Wash,350,40,Toiletries
+Dental Floss,150,50,Toiletries
+Toothbrush,100,60,Toiletries
+Shaving Cream,250,30,Toiletries
+Baby Soap,200,35,Baby Products
+Baby Powder,250,30,Baby Products
+Baby Shower Gel,300,25,Baby Products
+Baby Lotion,350,20,Baby Products
+Baby Monitor,5000,10,Baby Products
+Electric Heater,4000,10,Electronics
+Handheld Vacuum,6000,8,Electronics
+Bluetooth Speaker,3000,15,Electronics
+Security Camera,4500,10,Electronics
+Laundry Basket,700,20,Household
+Wall Mirror,1000,15,Household
+Trash Can,500,25,Household
+Bed Sheet Set,2000,15,Household
+Pillow Case,400,30,Household
